@@ -1,0 +1,16 @@
+.header{
+    background-color:rgb(27, 206, 238);
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: italic;
+    
+   text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:hotpink;
+    font-style: oblique;
+}
