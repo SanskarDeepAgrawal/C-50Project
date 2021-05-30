@@ -14,3 +14,21 @@
     background-color:hotpink;
     font-style: oblique;
 }
+
+.header2{
+    background-color:rgb(27, 206, 238);
+    font-size: large;
+    font-weight: 900;
+    font-style: italic;
+    
+   text-align: center;
+}
+
+.origami{
+
+    border-radius: 20px ;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+
+}
